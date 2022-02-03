@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center ;
+    padding-top: 20px;
+    background-image: url("subway.jpg");
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color: purple;
+    text-shadow: red;
+}
+
+button{
+    background-color: darkblue;
+    color: lightblue;
+    margin: 10px;
+    padding: 40px;
+}
+
+#save-btn{
+    background-color: lightgreen;
+    color: darkgreen;
+    font-weight: bolder;
+}
+
+#save-el{
+    color: yellow;
+}
+
+#count-el{
+    color: springgreen;
+}
